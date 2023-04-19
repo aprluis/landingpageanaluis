@@ -1,0 +1,33 @@
+body{
+    background-image:
+    url(imagens/nadador.jpg);
+    background-image: cover;
+    color: black:aliceblue
+    font-family: Arial;
+    font-weight: bold;
+    text-aligh:right;
+    }
+h1{
+   font-size: :100px;
+   margin-right: 80px;
+   font-weight: bold;
+   text-align: right;
+   margin-top: 400px;
+      }
+p{
+    font-size: 25px;
+    margin-right: 80px;
+    font-weight: bold;  
+    text-align: right;
+    margin-top: 25px ; 
+    line-height: normal;
+    padding: none;
+}
+ul{ 
+    font-size: 20px;
+    margin-right: 80px;
+    text-align: right;
+    font-weight: bold;
+    list-style-type: none;
+    margin-top: 50px;
+}
